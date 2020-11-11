@@ -43,8 +43,14 @@
         font-size: 22px;
     }
     
+    header {
+        height: 70vh;
+        background-attachment: scroll;
+    }
+    
     .hero-text-box {
         padding-left: 90px;
+        
     }
 
     html {
